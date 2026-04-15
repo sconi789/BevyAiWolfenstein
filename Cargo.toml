@@ -1,0 +1,23 @@
+[workspace]
+resolver = "2"
+members = [
+  ".",
+  "crates/hermes",
+  "crates/harness",
+]
+
+[package]
+name = "ai_bevy_ai_game_make_demo"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bevy = { version = "0.14", default-features = true, features = ["wav", "vorbis"] }
+bevy_rapier3d = { version = "0.27", features = ["dim3"] }
+serde = { version = "1", features = ["derive"] }
+serde_yaml = "0.9"
+thiserror = "2"
+rand = "0.8"
+
+hermes = { path = "crates/hermes" }
+harness = { path = "crates/harness" }

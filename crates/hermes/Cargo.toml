@@ -1,0 +1,9 @@
+[package]
+name = "hermes"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bevy_app = "0.14"
+bevy_ecs = "0.14"
+serde = { version = "1", features = ["derive"] }

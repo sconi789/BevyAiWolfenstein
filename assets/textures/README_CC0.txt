@@ -1,0 +1,11 @@
+来源（CC0，无需署名）：
+- OpenGameArt: “CC0 Wall Textures” 页面列出的 wall_2.jpg / wall_6.jpg
+- 页面：https://opengameart.org/content/cc0-wall-textures
+- OpenGameArt: “Wall texture - wall.png”（seamless 256x256 png）
+- 页面：https://opengameart.org/content/wall-texture-wallpng
+- OpenGameArt: “Ghost monster”（anim-nme-ghost.png，CC0）
+- 页面：https://opengameart.org/content/ghost-monster
+- OpenGameArt: “FPS Monster Enemies”（demonarioupscale.png，CC0）
+- 页面：https://opengameart.org/content/fps-monster-enemies
+- OpenGameArt: “Ghost monster”（anim-nme-ghost.png，CC0，用作 enemy_sheet_cc0.png）
+- 页面：https://opengameart.org/content/ghost-monster

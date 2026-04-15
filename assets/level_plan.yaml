@@ -1,0 +1,34 @@
+seed: 1
+player_start: [0.0, 1.0, 6.0]
+pieces:
+  - kind: Floor
+    pos: [0.0, 0.0, 0.0]
+    size: [60.0, 0.2, 60.0]
+  - kind: Wall
+    pos: [-30.0, 1.0, 0.0]
+    size: [0.3, 2.5, 60.0]
+  - kind: Wall
+    pos: [30.0, 1.0, 0.0]
+    size: [0.3, 2.5, 60.0]
+  - kind: Wall
+    pos: [0.0, 1.0, -30.0]
+    size: [60.0, 2.5, 0.3]
+  - kind: Wall
+    pos: [0.0, 1.0, 30.0]
+    size: [60.0, 2.5, 0.3]
+  - kind: Wall
+    pos: [0.0, 2.5, 0.0]
+    size: [60.0, 0.3, 60.0]
+
+  - kind: Door
+    pos: [0.0, 1.0, 18.0]
+    size: [2.0, 2.4, 0.4]
+    locked: true
+
+  - kind: Key
+    pos: [3.0, 0.6, -10.0]
+
+  - kind: Light
+    pos: [0.0, 3.0, 10.0]
+    intensity: 8000.0
+    range: 25.0
